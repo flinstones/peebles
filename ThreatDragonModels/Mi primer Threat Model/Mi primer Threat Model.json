@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "title": "Mi primer Threat Model",
+    "owner": "Some Owner"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "First Contributor"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "First Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Some Reviewer"
+  }
+}
